@@ -1,0 +1,7 @@
+.idea/**
+venv/**
+**/*.pyc
+*.gz
+best_weights.hdf5
+.directory
+__pycache__/
